@@ -1,2 +1,2 @@
 FROM busybox:latest
-CMD echo Hello Docker 2
+CMD echo Hello Docker from github
